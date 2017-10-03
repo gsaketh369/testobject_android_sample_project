@@ -1,6 +1,5 @@
 # testobject_android_sample_project
 
-
 Automation Tool: Appium
 Programming lang: Java
 Framework Type: Data Driven Framework
